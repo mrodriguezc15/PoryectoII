@@ -1,0 +1,19 @@
+# Credenciales — NUNCA subir
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Archivos temporales del proyecto
+eda_charts_*/
+*.pdf
+
+# IDEs
+.vscode/
+.idea/
+*.swp
